@@ -1,0 +1,27 @@
+{
+  "_note": "Copy an entry into the \"projects\" array of data/projects.json. Order in the array = order on your profile. This file is never read by the scripts.",
+  "projects": [
+    {
+      "title": "Example ECE Project: 4-bit ALU in Verilog",
+      "description": "Short, honest description of what the circuit does.",
+      "category": "ece",
+      "stack": ["Verilog", "Icarus Verilog", "GTKWave"],
+      "repo": "https://github.com/sridharvpr7/your-ece-repo",
+      "demo": "",
+      "status": "In progress",
+      "image": "assets/alu-waveform.png",
+      "visible": true
+    },
+    {
+      "title": "Example Web Project",
+      "description": "Short, honest description of what the app does.",
+      "category": "web",
+      "stack": ["HTML", "CSS", "JavaScript"],
+      "repo": "https://github.com/sridharvpr7/your-web-repo",
+      "demo": "https://your-username.github.io/your-web-repo/",
+      "status": "Completed",
+      "image": "",
+      "visible": true
+    }
+  ]
+}

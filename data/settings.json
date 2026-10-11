@@ -1,0 +1,18 @@
+{
+  "showBanner": true,
+  "showECE": true,
+  "showWebDevelopment": true,
+  "showProjects": true,
+  "showEducation": true,
+  "showCertificates": true,
+  "showStatistics": true,
+  "showSocialLinks": true,
+  "defaultTheme": "dark",
+  "compactLayout": true,
+  "useStaticBanner": false,
+  "statsCards": {
+    "stats": true,
+    "languages": true,
+    "streak": true
+  }
+}

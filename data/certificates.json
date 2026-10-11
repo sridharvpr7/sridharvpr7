@@ -1,0 +1,4 @@
+{
+  "_note": "Add only certificates you actually hold. verified must be true AND url must point to the credential, otherwise the entry is hidden. If the list is empty the whole section is omitted.",
+  "certificates": []
+}

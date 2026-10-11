@@ -1,147 +1,123 @@
-<div align="center">
+<p align="center">
+  <img src="assets/github-banner.svg" alt="Sridhar VPR - Electronics &amp; Communication Engineering Student | Web Developer" width="100%">
+</p>
 
-<img src="assets/banner.svg" alt="Sridhar VPR — Electronics, Embedded Systems & Web Development" width="100%">
+<h1 align="center">Hi, I'm Sridhar VPR</h1>
+<p align="center"><b>Electronics &amp; Communication Engineering Student | Web Developer</b></p>
+<p align="center"><i>An ECE student exploring electronics, digital systems, and web development.</i></p>
 
-<!-- The banner includes animated neon glow, circuit paths, particles, and a scan line. -->
+I'm an Electronics and Communication Engineering student interested in digital systems, electronics, and web development. I enjoy exploring engineering concepts, building software projects, and learning how hardware and software can work together.
 
-<br>
+## Quick Highlights
 
-[![GitHub](https://img.shields.io/badge/GitHub-sridharvpr7-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sridharvpr7)
-[![Focus](https://img.shields.io/badge/Focus-ECE%20%2B%20Web-7C3AED?style=for-the-badge)](#-two-domains-one-builder)
-[![Open to Learning](https://img.shields.io/badge/Always-Learning-06B6D4?style=for-the-badge)](#-what-im-exploring)
+- 🎓 **Studying:** B.E. Electronics and Communication Engineering · J.N.N. · 2025–2029
+- ⚡ **Domains:** Electronics & Communication Engineering + Web Development
+- 🔭 **Learning:** Digital electronics and logic design · Verilog and VLSI fundamentals · Full-stack web development with Node.js, Express and PostgreSQL
+- 📦 **Featured project:** [Elder's Veil](https://github.com/sridharvpr7/Elders-veil)
+- 💻 **Code:** [github.com/sridharvpr7](https://github.com/sridharvpr7)
 
-### Electronics & Communication Engineering Student · Web Developer
-
-*Connecting circuits, code, and useful digital experiences.*
-
-</div>
-
----
-
-## `whoami` 👋
-
-I'm **Sridhar VPR**, an Electronics and Communication Engineering student who also enjoys building for the web. I'm interested in the space where **hardware meets software** — from digital logic and embedded concepts to full-stack applications and thoughtful user interfaces.
-
-- 🎓 **Studying:** Electronics & Communication Engineering
-- 💻 **Building:** Web applications and practical software projects
-- ⚡ **Exploring:** Digital design, Verilog HDL, and embedded systems
-- 🌱 **Approach:** Learn by building, testing, improving, and documenting
-- 🎯 **Goal:** Grow into an engineer who understands both devices and the digital products around them
-
-> **My engineering mindset:** understand the problem, build a clear solution, test the details, and keep improving it.
-
-## ⚡ Two domains. One builder.
+## Two Domains
 
 <table>
 <tr>
 <td width="50%" valign="top">
-
-### 🔌 Electronics & Communication
-
-- Digital electronics and logic design
-- VLSI fundamentals and Verilog HDL
-- Embedded systems concepts
-- Hardware–software integration
-- Circuit fundamentals and signal concepts
-
-**Direction:** build a strong foundation, then turn theory into working experiments.
-
+<h3>⚡ Electronics &amp; Communication Engineering</h3>
+<p>Digital Electronics · VLSI and Verilog · Embedded Systems · Signals and Systems · Analog Electronics · Digital Communication</p>
 </td>
 <td width="50%" valign="top">
-
-### 🌐 Web Development
-
-- Responsive HTML and CSS interfaces
-- JavaScript and interactive UI
-- Node.js and Express.js fundamentals
-- PostgreSQL and data-driven applications
-- Git, GitHub, and deployment workflows
-
-**Direction:** create usable, maintainable applications from interface to backend.
-
+<h3>🌐 Web Development</h3>
+<p>Frontend Development · Backend Development · Databases · Developer Tools · Deployment</p>
 </td>
 </tr>
 </table>
 
-## 🧰 Tools & technologies
+## Technical Skills
 
-> This list is a working skills map, not a claim of expert-level proficiency. Update it as your experience grows.
+### ⚡ Electronics & Communication Engineering
 
-<div align="center">
+**Digital Electronics**
 
-**Web & Backend**
+- 🔌 **Logic gates and combinational circuits** — Boolean algebra, adders, multiplexers, decoders. · _Learning_
+- ⏱️ **Sequential circuits** — Flip-flops, counters, registers, state machines. · _Learning_
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-111827?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+**VLSI and Verilog**
 
-**Electronics & Design**
+- 💾 **Verilog HDL** — Describing and simulating digital hardware. · _Exploring_
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Verilog HDL](https://img.shields.io/badge/Verilog%20HDL-7C3AED?style=flat-square)
-![Digital Logic](https://img.shields.io/badge/Digital%20Logic-0891B2?style=flat-square)
-![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-0F766E?style=flat-square)
+**Embedded Systems**
 
-**Workflow**
+- 🧠 **Microcontrollers** — Programming small boards to read sensors and drive outputs. · _Exploring_
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Render](https://img.shields.io/badge/Render-111827?style=flat-square&logo=render&logoColor=white)
+**Signals and Systems**
 
-</div>
+- 📈 **Signals and transforms** — Continuous and discrete signals, Fourier ideas. · _Learning_
 
-## 🚀 Project spotlight
+**Analog Electronics**
 
-### 🦇 Elder's Veil — Comic & Manga Reading Platform
+- 🔋 **Diodes, transistors and amplifiers** — Basic device behaviour and amplifier circuits. · _Learning_
 
-A full-stack comic-reading platform project focused on a reader experience and a creator publishing workflow.
+**Digital Communication**
 
-- **Project areas:** reader interface, account flows, creator submissions, admin review, and content management
-- **Technology direction:** web frontend, Node.js/Express backend, PostgreSQL, and deployment
-- **What I'm learning:** structuring a larger web application, connecting frontend and backend, and making the experience clearer for users
+- 📡 **Modulation basics** — How digital data is carried over a channel. · _Exploring_
 
-[**Explore the Elder's Veil repository →**](https://github.com/sridharvpr7/Elders-veil)
+### 🌐 Web Development
 
-> Add a live demo link and screenshots here after confirming they work. Keep the repository link if the project is still private or under active development.
+| Category | Technologies |
+|---|---|
+| **Frontend Development** | 🧱 HTML · 🎨 CSS · ✨ JavaScript |
+| **Backend Development** | 🟢 Node.js · 🛤️ Express.js |
+| **Databases** | 🐘 PostgreSQL |
+| **Developer Tools** | 🌿 Git · 🐙 GitHub |
+| **Deployment** | ☁️ Render |
 
-### 🔬 ECE & digital-design work
+## Featured Projects
 
-I also use my GitHub to document electronics learning: digital logic, Verilog practice, embedded concepts, and lab-sized experiments.
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/sridharvpr7/Elders-veil">Elder's Veil</a></h3>
+<p>A comic and manga reading platform project.</p>
+<p><sub>Web Development · Live on Render</sub></p>
+<p><code>Node.js</code> <code>Express.js</code> <code>PostgreSQL</code> <code>JavaScript</code></p>
+<p><a href="https://github.com/sridharvpr7/Elders-veil">Repository</a> · <a href="https://elders-veil1.onrender.com">Live demo</a></p>
+</td>
+<td width="50%"></td>
+</tr>
+</table>
 
-**Planned showcase format:** problem statement → circuit/logic idea → implementation → test cases or simulation screenshots → what I learned.
+## Currently Learning & Interests
 
-[**Browse my repositories →**](https://github.com/sridharvpr7?tab=repositories)
+- 🔭 **Learning:** Digital electronics and logic design · Verilog and VLSI fundamentals · Full-stack web development with Node.js, Express and PostgreSQL
+- 💡 **Interests:** Digital systems · Embedded systems · Hardware and software working together · Building web applications
 
-## 🧪 What I'm exploring
+## Education
 
-- Building accessible, responsive, and polished web interfaces
-- Understanding backend APIs, authentication, and database design
-- Practising digital design and Verilog HDL
-- Connecting hardware concepts with software tools
-- Writing better documentation and making projects easier to run
+- 🎓 **B.E. Electronics and Communication Engineering** — J.N.N. · 2025–2029
 
-## 📌 How I like to build
+## GitHub Statistics
 
-`PLAN` → `DESIGN` → `BUILD` → `TEST` → `DOCUMENT` → `IMPROVE`
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sridharvpr7&amp;show_icons=true&amp;hide_border=true&amp;title_color=00E5FF&amp;text_color=C9D1D9&amp;icon_color=8B5CF6&amp;bg_color=00000000">
+    <img src="https://github-readme-stats.vercel.app/api?username=sridharvpr7&amp;show_icons=true&amp;hide_border=true&amp;title_color=0E7490&amp;text_color=24292F&amp;icon_color=6D28D9&amp;bg_color=00000000" alt="GitHub stats for sridharvpr7" width="48%">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sridharvpr7&amp;layout=compact&amp;hide_border=true&amp;langs_count=6&amp;title_color=00E5FF&amp;text_color=C9D1D9&amp;icon_color=8B5CF6&amp;bg_color=00000000">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sridharvpr7&amp;layout=compact&amp;hide_border=true&amp;langs_count=6&amp;title_color=0E7490&amp;text_color=24292F&amp;icon_color=6D28D9&amp;bg_color=00000000" alt="Most used languages for sridharvpr7" width="48%">
+  </picture>
+</p>
 
-I value projects that solve a real problem, explain their setup clearly, and show the decisions behind the implementation.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=sridharvpr7&amp;hide_border=true&amp;background=00000000&amp;ring=00E5FF&amp;fire=8B5CF6&amp;currStreakLabel=00E5FF&amp;sideLabels=C9D1D9&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;dates=8B949E">
+    <img src="https://streak-stats.demolab.com?user=sridharvpr7&amp;hide_border=true&amp;background=00000000&amp;ring=0E7490&amp;fire=6D28D9&amp;currStreakLabel=0E7490&amp;sideLabels=24292F&amp;currStreakNum=24292F&amp;sideNums=24292F&amp;dates=57606A" alt="Contribution streak for sridharvpr7" width="70%">
+  </picture>
+</p>
 
-## 🤝 Connect
+<p align="center"><sub>Cards are rendered by third-party services. If one does not load, <a href="https://github.com/sridharvpr7">view live activity on GitHub</a>.</sub></p>
 
-<div align="center">
+## Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github)](https://github.com/sridharvpr7)
+<p align="center"><a href="https://github.com/sridharvpr7">GitHub</a></p>
 
-**Portfolio:** Add your portfolio URL when it is published  
-**LinkedIn:** Add your LinkedIn profile URL when ready
-
-<br>
-
-*Building at the intersection of circuits and code.* ⚡
-
-</div>
+<p align="center"><sub>Sridhar VPR · Electronics &amp; Communication Engineering × Web Development</sub></p>

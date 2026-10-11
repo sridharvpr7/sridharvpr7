@@ -1,0 +1,15 @@
+{
+  "intro": "I'm an Electronics and Communication Engineering student interested in digital systems, electronics, and web development. I enjoy exploring engineering concepts, building software projects, and learning how hardware and software can work together.",
+  "extraHighlights": [],
+  "learning": [
+    "Digital electronics and logic design",
+    "Verilog and VLSI fundamentals",
+    "Full-stack web development with Node.js, Express and PostgreSQL"
+  ],
+  "interests": [
+    "Digital systems",
+    "Embedded systems",
+    "Hardware and software working together",
+    "Building web applications"
+  ]
+}

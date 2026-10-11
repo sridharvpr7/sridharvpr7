@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-labelledby="t d">
+  <title id="t">SRIDHAR VPR - ECE Student | Web Developer</title>
+  <desc id="d">Circuit-board themed banner with a microchip emblem, cyan and violet glow, on a dark background.</desc>
+  <defs>
+    
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a0d14"/><stop offset=".6" stop-color="#0f1220"/><stop offset="1" stop-color="#1a1233"/></linearGradient>
+    <radialGradient id="glowC" cx="0.82" cy="0.5" r="0.45"><stop offset="0" stop-color="#00e5ff" stop-opacity=".22"/><stop offset="1" stop-color="#00e5ff" stop-opacity="0"/></radialGradient>
+    <radialGradient id="glowV" cx="0.1" cy="1" r="0.55"><stop offset="0" stop-color="#8b5cf6" stop-opacity=".25"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#9eeeff"/></linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00e5ff"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+    <linearGradient id="scanG" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00e5ff" stop-opacity="0"/><stop offset=".5" stop-color="#00e5ff" stop-opacity=".16"/><stop offset="1" stop-color="#00e5ff" stop-opacity="0"/></linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#ffffff" stroke-opacity=".035"/></pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <clipPath id="clip"><rect width="1200" height="300" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="300" fill="url(#bg)"/>
+    <rect width="1200" height="300" fill="url(#grid)"/>
+    <rect width="1200" height="300" fill="url(#glowC)"/>
+    <rect width="1200" height="300" fill="url(#glowV)"/>
+    <g fill="none" stroke="#00e5ff" stroke-opacity=".28" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M0 40H120L150 70H400"/>
+    <path d="M0 260H220L250 230H480"/>
+    <path d="M640 40H760L790 70H860L890 110H920"/>
+    <path d="M720 150H920"/>
+    <path d="M700 260H800L830 230H880L910 190H920"/>
+    <path d="M1080 110H1130L1160 80H1200"/>
+    <path d="M1080 150H1200"/>
+    <path d="M1080 190H1140L1170 220H1200"/>
+    <path d="M1010 70V30H1100L1130 0"/>
+    <path d="M1010 230V270H1100L1130 300"/>
+    </g>
+    <g fill="none" stroke="#00e5ff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)" opacity=".9">
+    <path class="sig " d="M640 40H760L790 70H860L890 110H920"/>
+    <path class="sig b" d="M720 150H920"/>
+    <path class="sig c" d="M700 260H800L830 230H880L910 190H920"/>
+    <path class="sig " d="M1080 150H1200"/>
+    <path class="sig b" d="M0 40H120L150 70H400"/>
+    <path class="sig c" d="M0 260H220L250 230H480"/>
+    </g>
+    <g fill="#00e5ff" filter="url(#glow)">
+    <circle class="pulse " cx="400" cy="70" r="4"/>
+    <circle class="pulse " cx="480" cy="230" r="4"/>
+    <circle class="pulse " cx="920" cy="110" r="4"/>
+    <circle class="pulse " cx="920" cy="150" r="4"/>
+    <circle class="pulse " cx="920" cy="190" r="4"/>
+    <circle class="pulse " cx="1200" cy="80" r="4"/>
+    <circle class="pulse " cx="1200" cy="150" r="4"/>
+    <circle class="pulse " cx="1200" cy="220" r="4"/>
+    <circle class="pulse " cx="1130" cy="4" r="4"/>
+    <circle class="pulse " cx="1130" cy="296" r="4"/>
+    <circle class="pulse " cx="640" cy="40" r="4"/>
+    <circle class="pulse " cx="720" cy="150" r="4"/>
+    <circle class="pulse " cx="700" cy="260" r="4"/>
+    </g>
+    <g transform="translate(0,0)">
+      <g fill="none" stroke="#8b5cf6" stroke-opacity=".75" stroke-width="2.5" stroke-linecap="round"><path d="M920 110H940M1060 110H1080"/><path d="M920 130H940M1060 130H1080"/><path d="M920 150H940M1060 150H1080"/><path d="M920 170H940M1060 170H1080"/><path d="M920 190H940M1060 190H1080"/><path d="M970 70V90M970 210V230"/><path d="M990 70V90M990 210V230"/><path d="M1010 70V90M1010 210V230"/><path d="M1030 70V90M1030 210V230"/></g>
+      <rect x="940" y="90" width="120" height="120" rx="12" fill="#0d1322" stroke="#00e5ff" stroke-width="2.5" filter="url(#glow)"/>
+      <rect x="962" y="112" width="76" height="76" rx="6" fill="none" stroke="#8b5cf6" stroke-opacity=".9" stroke-width="2"/>
+      <path d="M978 150h14l8-14 10 28 8-14h4" fill="none" stroke="#00e5ff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="1000" y="182" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2" fill="#c4b5fd">VPR</text>
+      <circle cx="948" cy="98" r="3" fill="#8b5cf6"/>
+    </g>
+    
+    <text x="60" y="150" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="68" font-weight="800" letter-spacing="3" fill="url(#name)">SRIDHAR VPR</text>
+    <rect x="62" y="168" width="150" height="4" rx="2" fill="url(#bar)"/>
+    <text x="62" y="212" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="24" font-weight="600" letter-spacing="4" fill="#b6c2d1">ECE STUDENT <tspan fill="#8b5cf6">|</tspan> WEB DEVELOPER</text>
+  </g>
+  <rect x="1" y="1" width="1198" height="298" rx="13" fill="none" stroke="#ffffff" stroke-opacity=".08"/>
+</svg>

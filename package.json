@@ -1,0 +1,14 @@
+{
+  "name": "sridharvpr7-github-profile",
+  "version": "1.0.0",
+  "description": "JSON-driven GitHub profile README generator for sridharvpr7",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "validate": "node scripts/validate-data.js",
+    "generate": "node scripts/generate-readme.js",
+    "check": "node scripts/generate-readme.js --check",
+    "build": "npm run validate && npm run generate"
+  },
+  "engines": { "node": ">=16" }
+}

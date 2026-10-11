@@ -1,0 +1,12 @@
+{
+  "_note": "Starter entries. Delete or set \"visible\": false for anything that does not apply to you yet. status must be one of: Exploring, Learning, Practicing, Used in a project.",
+  "skills": [
+    { "name": "Logic gates and combinational circuits", "category": "Digital Electronics", "icon": "🔌", "description": "Boolean algebra, adders, multiplexers, decoders.", "status": "Learning", "project": "", "visible": true },
+    { "name": "Sequential circuits", "category": "Digital Electronics", "icon": "⏱️", "description": "Flip-flops, counters, registers, state machines.", "status": "Learning", "project": "", "visible": true },
+    { "name": "Verilog HDL", "category": "VLSI and Verilog", "icon": "💾", "description": "Describing and simulating digital hardware.", "status": "Exploring", "project": "", "visible": true },
+    { "name": "Microcontrollers", "category": "Embedded Systems", "icon": "🧠", "description": "Programming small boards to read sensors and drive outputs.", "status": "Exploring", "project": "", "visible": true },
+    { "name": "Signals and transforms", "category": "Signals and Systems", "icon": "📈", "description": "Continuous and discrete signals, Fourier ideas.", "status": "Learning", "project": "", "visible": true },
+    { "name": "Diodes, transistors and amplifiers", "category": "Analog Electronics", "icon": "🔋", "description": "Basic device behaviour and amplifier circuits.", "status": "Learning", "project": "", "visible": true },
+    { "name": "Modulation basics", "category": "Digital Communication", "icon": "📡", "description": "How digital data is carried over a channel.", "status": "Exploring", "project": "", "visible": true }
+  ]
+}

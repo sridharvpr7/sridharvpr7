@@ -1,0 +1,15 @@
+{
+  "projects": [
+    {
+      "title": "Elder's Veil",
+      "description": "A comic and manga reading platform project.",
+      "category": "web",
+      "stack": ["Node.js", "Express.js", "PostgreSQL", "JavaScript"],
+      "repo": "https://github.com/sridharvpr7/Elders-veil",
+      "demo": "https://elders-veil1.onrender.com",
+      "status": "Live on Render",
+      "image": "",
+      "visible": true
+    }
+  ]
+}

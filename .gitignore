@@ -1,20 +1,6 @@
-# OS/editor
+node_modules/
+*.log
 .DS_Store
 Thumbs.db
-.vscode/
-.idea/
-
-# Secrets and local configuration
 .env
-.env.*
-!.env.example
-
-# Dependencies / build output
-node_modules/
-dist/
-build/
-coverage/
-
-# Logs
-*.log
-npm-debug.log*
+*.zip

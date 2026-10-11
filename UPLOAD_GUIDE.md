@@ -1,49 +1,47 @@
-# Upload this profile repository to GitHub
+# Upload Guide
 
-## 1. Create the special profile repository
+Pick **Option A** (command line) or **Option B** (browser only).
 
-1. Sign in to GitHub as `sridharvpr7`.
-2. Open https://github.com/new
-3. Repository name: **sridharvpr7** (must match your username exactly).
-4. Set visibility to **Public**.
-5. If the repository is new, you can leave **Add a README file** unchecked because this package already contains one.
-6. Create the repository.
+## Option A: Git command line
 
-GitHub displays the root `README.md` on your profile when the public repository name matches your username.
+Inside the unzipped project folder:
 
-## 2. Upload these files
+```bash
+git init
+git add .
+git commit -m "Add cinematic GitHub profile"
+git branch -M main
+git remote add origin https://github.com/sridharvpr7/sridharvpr7.git
+git push -u origin main
+```
+GitHub may ask you to sign in (use a Personal Access Token if prompted for a password).
 
-1. Open the new `sridharvpr7` repository.
-2. Select **Add file → Upload files**.
-3. Extract this ZIP on your computer first.
-4. Upload the contents of the `sridharvpr7-github-profile` folder, not the outer ZIP itself.
-5. Commit the files to the `main` branch.
+## Option B: Upload in the browser
 
-The repository root should contain:
-- `README.md`
-- `UPLOAD_GUIDE.md`
-- `PROJECT_SHOWCASE_TEMPLATE.md`
-- `.gitignore`
-- `assets/banner.svg`
-- `.github/CONTRIBUTING.md`
+1. Open `https://github.com/sridharvpr7/sridharvpr7`.
+2. Click **Add file → Upload files**.
+3. Drag in **everything inside** the unzipped folder (not the folder itself): `README.md`, `data/`, `assets/`, `scripts/`, `package.json`, the guides, etc.
+4. Click **Commit changes**.
 
-## 3. Personalize before sharing
+## Verify
 
-- Confirm the Elder's Veil repository URL and visibility.
-- Add your real portfolio and LinkedIn links.
-- Remove technologies you have not used yet.
-- Add real screenshots and a setup guide to each project repository.
-- Do not add fake contribution counts, stars, certificates, or experience.
+Visit `https://github.com/sridharvpr7`. Your README appears above your repositories. If the banner is missing, check that `assets/github-banner.svg` was uploaded with the same folder structure.
 
-## 4. Pin your projects
+## Updating later
 
-Visit https://github.com/sridharvpr7, choose **Customize your pins**, and select your strongest public repositories. Pin only projects you can explain and demonstrate.
+1. Edit JSON in `data/`.
+2. `npm run validate` then `npm run generate`.
+3. `git add . && git commit -m "Update profile" && git push`
 
-## Notes
+## Optional
 
-This package creates the profile README and supporting documentation. It does not change your GitHub account, upload files, pin repositories, or deploy a website automatically.
+The four guide files don't appear on your profile page, but they will be visible inside the repository. You may delete them from the repo if you prefer a tidier repository; the generator doesn't need them.
 
+## Troubleshooting
 
-## Cinematic banner notes
-
-The `assets/banner.svg` file is a custom dark neon banner with a circuit-board background, purple/cyan glow, animated traces, moving scan line, and pulsing nodes. GitHub README rendering and SVG sanitization can vary; if the animation is shown as static, the banner still has its full cinematic visual design. GitHub profile READMEs do not support arbitrary CSS/JavaScript backgrounds, so use the banner image instead of trying to set a page-wide CSS background.
+| Problem | Fix |
+|---|---|
+| Profile doesn't show the README | Repo must be public, named exactly `sridharvpr7`, with `README.md` in the root |
+| Banner shows a broken image | `assets/` folder missing in the repo, or file name changed |
+| Statistics cards are blank | Third-party service temporarily down; wait or turn that card off in `settings.json` |
+| `npm run validate` fails | Read the message; it names the file and field |

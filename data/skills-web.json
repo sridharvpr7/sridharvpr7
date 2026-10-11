@@ -1,0 +1,15 @@
+{
+  "_note": "Only technologies you are comfortable showing. Set \"visible\": false to hide one without deleting it.",
+  "skills": [
+    { "name": "HTML", "category": "Frontend Development", "icon": "🧱", "status": "Practicing", "visible": true },
+    { "name": "CSS", "category": "Frontend Development", "icon": "🎨", "status": "Practicing", "visible": true },
+    { "name": "JavaScript", "category": "Frontend Development", "icon": "✨", "status": "Practicing", "visible": true },
+    { "name": "Node.js", "category": "Backend Development", "icon": "🟢", "status": "Practicing", "visible": true },
+    { "name": "Express.js", "category": "Backend Development", "icon": "🛤️", "status": "Practicing", "visible": true },
+    { "name": "PostgreSQL", "category": "Databases", "icon": "🐘", "status": "Practicing", "visible": true },
+    { "name": "Git", "category": "Developer Tools", "icon": "🌿", "status": "Practicing", "visible": true },
+    { "name": "GitHub", "category": "Developer Tools", "icon": "🐙", "status": "Practicing", "visible": true },
+    { "name": "Render", "category": "Deployment", "icon": "☁️", "status": "Practicing", "visible": true },
+    { "name": "GitHub Pages", "category": "Deployment", "icon": "📄", "status": "Practicing", "visible": false }
+  ]
+}
