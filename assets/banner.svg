@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Sridhar VPR — Electronics and Web Development</title>
+  <desc id="desc">A dark cinematic banner with cyan circuit traces, purple gradients, and a title about electronics and web development.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070912"/>
+      <stop offset="0.55" stop-color="#11102a"/>
+      <stop offset="1" stop-color="#071a24"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="22"/></filter>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#94a3b8" stroke-opacity=".09" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="360" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="22" fill="url(#grid)"/>
+  <circle cx="970" cy="70" r="145" fill="#7c3aed" opacity=".24" filter="url(#blur)"/>
+  <circle cx="1060" cy="290" r="135" fill="#06b6d4" opacity=".18" filter="url(#blur)"/>
+  <g fill="none" stroke="url(#glow)" stroke-width="2" opacity=".7">
+    <path d="M730 0V60H790V95H860V135H920"/>
+    <path d="M820 0V30H900V60H1030V100H1200"/>
+    <path d="M1200 165H1120V195H1050V235H980V270H900"/>
+    <path d="M1200 310H1100V280H1060V250"/>
+    <path d="M750 360V320H810V280H860V245H915"/>
+    <path d="M1150 0V35H1100V75H1065"/>
+  </g>
+  <g fill="#22d3ee">
+    <circle cx="920" cy="135" r="4"/><circle cx="1200" cy="100" r="4"/>
+    <circle cx="900" cy="245" r="4"/><circle cx="750" cy="320" r="4"/>
+    <circle cx="1065" cy="75" r="4"/><circle cx="980" cy="270" r="4"/>
+  </g>
+  <g transform="translate(74 70)">
+    <rect x="0" y="0" width="5" height="180" rx="2.5" fill="url(#glow)"/>
+    <text x="28" y="62" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="800" letter-spacing="1.5">SRIDHAR VPR</text>
+    <text x="30" y="105" fill="#c4b5fd" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="600">ELECTRONICS &amp; COMMUNICATION</text>
+    <text x="30" y="137" fill="#67e8f9" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="600">ENGINEERING  ×  WEB DEVELOPMENT</text>
+    <text x="30" y="174" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="16">Circuits • Code • Creative problem solving</text>
+  </g>
+  <g transform="translate(1000 175)" fill="none" stroke="#a78bfa" stroke-width="2">
+    <rect x="-42" y="-42" width="84" height="84" rx="18" opacity=".85"/>
+    <rect x="-27" y="-27" width="54" height="54" rx="10" opacity=".65"/>
+    <path d="M-60 -18H-42M-60 0H-42M-60 18H-42M42 -18H60M42 0H60M42 18H60M-18 -60V-42M0 -60V-42M18 -60V-42M-18 42V60M0 42V60M18 42V60"/>
+    <path d="M-17 -12L-4 0L-17 12M4 12H18" stroke="#67e8f9" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
