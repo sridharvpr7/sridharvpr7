@@ -2,6 +2,8 @@
 
 <img src="assets/banner.svg" alt="Sridhar VPR — Electronics, Embedded Systems & Web Development" width="100%">
 
+<!-- The banner includes animated neon glow, circuit paths, particles, and a scan line. -->
+
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-sridharvpr7-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sridharvpr7)

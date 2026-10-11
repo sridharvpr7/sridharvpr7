@@ -42,3 +42,8 @@ Visit https://github.com/sridharvpr7, choose **Customize your pins**, and select
 ## Notes
 
 This package creates the profile README and supporting documentation. It does not change your GitHub account, upload files, pin repositories, or deploy a website automatically.
+
+
+## Cinematic banner notes
+
+The `assets/banner.svg` file is a custom dark neon banner with a circuit-board background, purple/cyan glow, animated traces, moving scan line, and pulsing nodes. GitHub README rendering and SVG sanitization can vary; if the animation is shown as static, the banner still has its full cinematic visual design. GitHub profile READMEs do not support arbitrary CSS/JavaScript backgrounds, so use the banner image instead of trying to set a page-wide CSS background.
